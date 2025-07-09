@@ -1,8 +1,8 @@
 {
   "estatisticas": {
-    "total_inscritos": 251,
-    "jaboatao": 186,
-    "petrolina": 65,
+    "total_inscritos": 262,
+    "jaboatao": 196,
+    "petrolina": 66,
     "municipios_jaboatao": [
       "Abreu E Lima",
       "Agrestina",
@@ -21,8 +21,10 @@
       "Camutanga",
       "Canhotinho",
       "Carnaíba",
+      "Carpina",
       "Caruaru",
       "Casinhas",
+      "Chã Grande",
       "Condado",
       "Correntes",
       "Cortês",
@@ -48,6 +50,7 @@
       "Jupi",
       "Lagoa De Itaenga",
       "Lagoa Do Carro",
+      "Lajedo",
       "Limoeiro",
       "Macaparana",
       "Machados",
@@ -115,7 +118,7 @@
       "Terra Nova",
       "Triunfo"
     ],
-    "total_municipios": 107
+    "total_municipios": 110
   },
   "participantes": [
     {
@@ -190,6 +193,11 @@
     },
     {
       "Nome do Participante": "Eryenne Lorrayne Sayanne Silva do Nascimento",
+      "Município": "Aliança",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Elaine Maria Da Silva Alexandre",
       "Município": "Aliança",
       "Polo": "Jaboatão Dos Guararapes"
     },
@@ -469,6 +477,11 @@
       "Polo": "Petrolina"
     },
     {
+      "Nome do Participante": "Anderson Michel e Silva Barbosa",
+      "Município": "Carpina",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
       "Nome do Participante": "Katiuska Lopes dos Santos",
       "Município": "Caruaru",
       "Polo": "Jaboatão Dos Guararapes"
@@ -486,6 +499,26 @@
     {
       "Nome do Participante": "Ana Cristina Aguiar dos Santos Queiroz",
       "Município": "Casinhas",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Vânia Alves da Silva",
+      "Município": "Chã Grande",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "João Paulo Barbosa Deniz",
+      "Município": "Chã Grande",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Fernanda Cristina Santos Vasconcelos",
+      "Município": "Chã Grande",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Núbia Rodrigues da Silva",
+      "Município": "Chã Grande",
       "Polo": "Jaboatão Dos Guararapes"
     },
     {
@@ -560,6 +593,11 @@
     },
     {
       "Nome do Participante": "JOSEANEDAMASCENO DE ASSIS SOUSA",
+      "Município": "Dormentes",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "DANILO DAMASCENO CAMILO",
       "Município": "Dormentes",
       "Polo": "Petrolina"
     },
@@ -857,6 +895,21 @@
       "Nome do Participante": "Sorlânia Alves Da Cruz",
       "Município": "Lagoa Grande",
       "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "FLAVIO DIOGO QUINTINO DE MORAIS SILVA",
+      "Município": "Lajedo",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "MARIA DO SOCORRO RIBEIRO",
+      "Município": "Lajedo",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Fabiana Pereira Diniz Melo",
+      "Município": "Lajedo",
+      "Polo": "Jaboatão Dos Guararapes"
     },
     {
       "Nome do Participante": "Flávia Maria Melo Silva de Andrade Lima",
@@ -1300,6 +1353,11 @@
     },
     {
       "Nome do Participante": "José Luciano Alves de Souza",
+      "Município": "Terezinha",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "José Emy Carlos Monteiro Barros",
       "Município": "Terezinha",
       "Polo": "Jaboatão Dos Guararapes"
     },
