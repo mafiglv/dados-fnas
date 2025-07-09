@@ -1,8 +1,8 @@
 {
   "estatisticas": {
-    "total_inscritos": 289,
-    "jaboatao": 216,
-    "petrolina": 73,
+    "total_inscritos": 296,
+    "jaboatao": 218,
+    "petrolina": 78,
     "municipios_jaboatao": [
       "Abreu E Lima",
       "Agrestina",
@@ -70,6 +70,7 @@
       "Pombos",
       "Primavera",
       "Quipapá",
+      "Quixaba",
       "Recife",
       "Riacho Das Almas",
       "Ribeirão",
@@ -108,6 +109,8 @@
       "Exu",
       "Flores",
       "Floresta",
+      "Granito",
+      "Ipubi",
       "Jatobá",
       "Lagoa Grande",
       "Moreilândia",
@@ -125,7 +128,7 @@
       "Terra Nova",
       "Triunfo"
     ],
-    "total_municipios": 117
+    "total_municipios": 120
   },
   "participantes": [
     {
@@ -1489,11 +1492,6 @@
       "Polo": "Jaboatão Dos Guararapes"
     },
     {
-      "Nome do Participante": "José Luciano Alves de Souza",
-      "Município": "Terezinha",
-      "Polo": "Jaboatão Dos Guararapes"
-    },
-    {
       "Nome do Participante": "José Emy Carlos Monteiro Barros",
       "Município": "Terezinha",
       "Polo": "Jaboatão Dos Guararapes"
@@ -1572,6 +1570,46 @@
       "Nome do Participante": "LEONARDO FILIPE ARAUJO",
       "Município": "Vitória De Santo Antão",
       "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Janaina Leite Tavares",
+      "Município": "Recife",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Joana Natália Fernandes Feitosa",
+      "Município": "Quixaba",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "JACKSON DOUGLAS SANTOS DA SILVA",
+      "Município": "Tamandaré",
+      "Polo": "Jaboatão Dos Guararapes"
+    },
+    {
+      "Nome do Participante": "Isabel Cristina Araújo Hacker",
+      "Município": "Rio Formoso",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Janielly Geane Monteiro",
+      "Município": "Ipubi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "María Dark Alves Galvão",
+      "Município": "Ipubi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "ADLA PRISCILA ALVES DA SILVA",
+      "Município": "Granito",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "SONEIDE MARIA DE SA SILVA LOPES GONÇALVES",
+      "Município": "Carnaubeira Da Penha",
+      "Polo": "Petrolina"
     }
   ]
 }
