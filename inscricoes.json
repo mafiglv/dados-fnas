@@ -1,8 +1,8 @@
 {
   "estatisticas": {
-    "total_inscritos": 369,
+    "total_inscritos": 379,
     "jaboatao": 266,
-    "petrolina": 103,
+    "petrolina": 113,
     "municipios_jaboatao": [
       "Abreu e Lima",
       "Agrestina",
@@ -120,6 +120,7 @@
       "Belém do São Francisco",
       "Bodocó",
       "Bom Conselho",
+      "Brejinho",
       "Carnaubeira da Penha  ",
       "Carnaíba",
       "Cumaru",
@@ -131,17 +132,21 @@
       "Garanhuns",
       "Granito",
       "Ingazeira",
+      "Ipojuca",
       "Ipubi",
+      "JUAZEIRO BA",
       "Jatobá",
       "Lagoa Grande",
       "Moreilândia  ",
       "Orocó",
       "Ouricuri",
+      "Palmares",
       "Parnamirim",
       "Pedra",
       "Petrolina",
       "Petrolândia",
       "Rio Formoso",
+      "Salgueiro",
       "Santa Cruz",
       "Santa Filomena  ",
       "Santa Maria da Boa Vista  ",
@@ -152,7 +157,7 @@
       "Trindade",
       "Triunfo"
     ],
-    "total_municipios": 143
+    "total_municipios": 146
   },
   "participantes": [
     {
@@ -454,6 +459,11 @@
       "Nome do Participante": "Jerônimo de Lima Silva",
       "Município": "Brejão",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Marcelo Jorge De Lima",
+      "Município": "Brejinho",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Gisele Barbosa",
@@ -876,6 +886,11 @@
       "Polo": "Petrolina"
     },
     {
+      "Nome do Participante": "Maria Izabel Cardoso",
+      "Município": "Garanhuns",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "CYBELLE MOURA OLIVEIRA DA SILVA",
       "Município": "Glória do Goitá",
       "Polo": "Jaboatão"
@@ -1014,6 +1029,11 @@
       "Nome do Participante": "Janayna Julye Martins Dos Santos",
       "Município": "Ipojuca",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "HELENA PATRICIA COSTA ALVES",
+      "Município": "Ipojuca",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Janielly Geane Monteiro",
@@ -1159,6 +1179,16 @@
       "Nome do Participante": "TACIANA MARIA DA SILVA",
       "Município": "Joaquim Nabuco  ",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "ANA PAULA SOUSA MARQUES",
+      "Município": "JUAZEIRO BA",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Jeandesson Albeci de Souza",
+      "Município": "JUAZEIRO BA",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Carla Patricia Gomes De Oliveira",
@@ -1364,6 +1394,26 @@
       "Nome do Participante": "Eliabe Marques da Silva",
       "Município": "Palmares",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Eliabe Marques da Silva",
+      "Município": "Palmares",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "João Bosco Ferreira da Silva Júnior",
+      "Município": "Palmares",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Rafaela Natália Melo Dos Santos",
+      "Município": "Palmares",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Bruna Letícia Lima Do Nascimento",
+      "Município": "Palmares",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Nadson Nattan da Silva",
@@ -1629,6 +1679,11 @@
       "Nome do Participante": "João Paulo Soares Silva",
       "Município": "Salgadinho",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Maria da Paz Soares Freire Patriota",
+      "Município": "Salgueiro",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Agnairam Amaral De Sousa",
