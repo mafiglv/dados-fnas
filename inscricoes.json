@@ -1,15 +1,14 @@
 {
   "estatisticas": {
-    "total_inscritos": 379,
+    "total_inscritos": 394,
     "jaboatao": 266,
-    "petrolina": 113,
+    "petrolina": 128,
     "municipios_jaboatao": [
       "Abreu e Lima",
       "Agrestina",
       "Agua Preta",
       "Aguas Belas",
       "Aliança",
-      "Aliança  ",
       "Altinho",
       "Amaraji",
       "Angelim",
@@ -22,7 +21,6 @@
       "Brejo da Madre de Deus",
       "Brejão",
       "Cachoeirinha",
-      "Cachoeirinha  ",
       "Calumbi",
       "Calçado",
       "Camaragibe",
@@ -35,7 +33,6 @@
       "Chã Grande  ",
       "Condado",
       "Correntes",
-      "Correntes  ",
       "Cortês",
       "Cupira",
       "Feira Nova",
@@ -56,7 +53,6 @@
       "Itapissuma",
       "Itaquitinga",
       "Jaboatão dos Guararapes",
-      "Jaboatão dos Guararapes  ",
       "Jaqueira",
       "Jataúba",
       "Joaquim Nabuco  ",
@@ -96,7 +92,6 @@
       "São José da Coroa Grande",
       "São José do Egito",
       "São João",
-      "São João  ",
       "São Lourenço da Mata",
       "São Vicente Férrer",
       "Tamandaré",
@@ -110,8 +105,7 @@
       "Vertente do Lério  ",
       "Vicencia",
       "Vitória de Santo Antão",
-      "Xexéu",
-      "Água Preta"
+      "Xexéu"
     ],
     "municipios_petrolina": [
       "Afrânio",
@@ -121,8 +115,11 @@
       "Bodocó",
       "Bom Conselho",
       "Brejinho",
+      "Cabo de Santo Agostinho",
+      "Cabrobó",
       "Carnaubeira da Penha  ",
       "Carnaíba",
+      "Cedro",
       "Cumaru",
       "Custódia",
       "Dormentes",
@@ -134,30 +131,35 @@
       "Ingazeira",
       "Ipojuca",
       "Ipubi",
-      "JUAZEIRO BA",
       "Jatobá",
+      "João Alfredo",
       "Lagoa Grande",
+      "Lagoa dos Gatos",
+      "Manari",
       "Moreilândia  ",
       "Orocó",
       "Ouricuri",
       "Palmares",
       "Parnamirim",
       "Pedra",
+      "Pernambuco",
       "Petrolina",
       "Petrolândia",
+      "Poção",
       "Rio Formoso",
       "Salgueiro",
       "Santa Cruz",
       "Santa Filomena  ",
       "Santa Maria da Boa Vista  ",
       "Serra Talhada",
+      "Serrita",
       "Solidão",
       "São José do Belmonte",
       "Terra Nova",
       "Trindade",
       "Triunfo"
     ],
-    "total_municipios": 138
+    "total_municipios": 148
   },
   "participantes": [
     {
@@ -217,7 +219,7 @@
     },
     {
       "Nome do Participante": "Rossana Valéria Lopes de Melo",
-      "Município": "Água Preta",
+      "Município": "Agua Preta",
       "Polo": "Jaboatão"
     },
     {
@@ -247,7 +249,7 @@
     },
     {
       "Nome do Participante": "Elaine Maria Da Silva Alexandre",
-      "Município": "Aliança  ",
+      "Município": "Aliança",
       "Polo": "Jaboatão"
     },
     {
@@ -337,6 +339,11 @@
     },
     {
       "Nome do Participante": "Flavio José da Silva",
+      "Município": "Barreiros",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "THYAGO RAMOS FIRMINO",
       "Município": "Barreiros",
       "Polo": "Petrolina"
     },
@@ -476,6 +483,16 @@
       "Polo": "Jaboatão"
     },
     {
+      "Nome do Participante": "LUZINEIDE DO NASCIMENTO SILVA",
+      "Município": "Cabo de Santo Agostinho",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "ACIVERA CAVALCANTI",
+      "Município": "Cabrobó",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "Ailton André Alves",
       "Município": "Cachoeirinha",
       "Polo": "Jaboatão"
@@ -492,7 +509,7 @@
     },
     {
       "Nome do Participante": "Luciana Maria de Lima Dutra",
-      "Município": "Cachoeirinha  ",
+      "Município": "Cachoeirinha",
       "Polo": "Jaboatão"
     },
     {
@@ -651,6 +668,16 @@
       "Polo": "Jaboatão"
     },
     {
+      "Nome do Participante": "MERCIA BEM ELIAS",
+      "Município": "Cedro",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Rikalline Juliana de Lima",
+      "Município": "Cedro",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "Vânia Alves da Silva",
       "Município": "Chã Grande  ",
       "Polo": "Jaboatão"
@@ -687,22 +714,22 @@
     },
     {
       "Nome do Participante": "Zeneide Alves Dos Santos",
-      "Município": "Correntes  ",
+      "Município": "Correntes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "José Geovanio Da Silva",
-      "Município": "Correntes  ",
+      "Município": "Correntes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "JOSELIA TENORIO DE MELO",
-      "Município": "Correntes  ",
+      "Município": "Correntes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "Francisco Eloi Tenório Neto",
-      "Município": "Correntes  ",
+      "Município": "Correntes",
       "Polo": "Jaboatão"
     },
     {
@@ -1112,32 +1139,32 @@
     },
     {
       "Nome do Participante": "Creusa Da Silva Melo",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "Tainá Thais Mendonça Soares",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "Ana Luiza de Lima Medeiros",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "Paula Menezes",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "Anne Anaide Oliveira Banja",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
       "Nome do Participante": "MELINA ROBERTA RÉGIS SENA",
-      "Município": "Jaboatão dos Guararapes  ",
+      "Município": "Jaboatão dos Guararapes",
       "Polo": "Jaboatão"
     },
     {
@@ -1176,19 +1203,19 @@
       "Polo": "Petrolina"
     },
     {
+      "Nome do Participante": "Geilaine maria",
+      "Município": "João Alfredo",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Eduardo César Oliveira Henriques Silva",
+      "Município": "João Alfredo",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "TACIANA MARIA DA SILVA",
       "Município": "Joaquim Nabuco  ",
       "Polo": "Jaboatão"
-    },
-    {
-      "Nome do Participante": "ANA PAULA SOUSA MARQUES",
-      "Município": "JUAZEIRO BA",
-      "Polo": "Petrolina"
-    },
-    {
-      "Nome do Participante": "Jeandesson Albeci de Souza",
-      "Município": "JUAZEIRO BA",
-      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Carla Patricia Gomes De Oliveira",
@@ -1224,6 +1251,11 @@
       "Nome do Participante": "Cristiane Maria da Silva",
       "Município": "Lagoa do Carro",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Schenaider lopes De Albuquerque Assunção",
+      "Município": "Lagoa dos Gatos",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "Franciaria dos Santos Freita",
@@ -1294,6 +1326,11 @@
       "Nome do Participante": "Edna Gomes Da Silva",
       "Município": "Machados  ",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "LUCAS BEZERRA FREIRE",
+      "Município": "Manari",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "CAMILA FREIRE DE OLIVEIRA BARROS PORTELA freire",
@@ -1496,6 +1533,16 @@
       "Polo": "Petrolina"
     },
     {
+      "Nome do Participante": "MARCOS ROSBANY DOS SANTOS CARVALHO",
+      "Município": "Pernambuco",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Paula Roberta Gomes Reinaldo",
+      "Município": "Pernambuco",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "Anna Flávia Araújo Dantas Silva",
       "Município": "Pesqueira",
       "Polo": "Jaboatão"
@@ -1533,6 +1580,21 @@
     {
       "Nome do Participante": "Doriane Secchi Mascarelo",
       "Município": "Petrolina",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Jessica Daciana de Meneses",
+      "Município": "Poção",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "José Fernando Xavier Venâncio",
+      "Município": "Poção",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Maiara Bispo de Souza Oliveira",
+      "Município": "Poção",
       "Polo": "Petrolina"
     },
     {
@@ -1767,7 +1829,7 @@
     },
     {
       "Nome do Participante": "Renato Valença de Gois",
-      "Município": "São João  ",
+      "Município": "São João",
       "Polo": "Jaboatão"
     },
     {
@@ -1853,6 +1915,21 @@
     {
       "Nome do Participante": "Juslayne Crystiane Nogueira Silva Albuquerque",
       "Município": "Serra Talhada",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Rita De Cassia Macedo Callou",
+      "Município": "Serrita",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "MARIA EDUARDA RIBEIRO OLIVEIRA",
+      "Município": "Serrita",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Thamyres Teixeira Cavalcanti Lisboa",
+      "Município": "Serrita",
       "Polo": "Petrolina"
     },
     {
