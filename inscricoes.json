@@ -1,8 +1,8 @@
 {
   "estatisticas": {
-    "total_inscritos": 414,
+    "total_inscritos": 425,
     "jaboatao": 266,
-    "petrolina": 148,
+    "petrolina": 159,
     "municipios_jaboatao": [
       "Abreu e Lima",
       "Agrestina",
@@ -113,12 +113,14 @@
       "Araripina",
       "Barreiros",
       "Belém do São Francisco",
+      "Betânia",
       "Bodocó",
       "Bom Conselho",
       "Brejinho",
       "Buenos Aires",
       "Cabo de Santo Agostinho",
       "Cabrobó",
+      "Calumbi",
       "Carnaubeira da Penha  ",
       "Carnaíba",
       "Cedro",
@@ -167,7 +169,7 @@
       "Triunfo",
       "Vertentes"
     ],
-    "total_municipios": 153
+    "total_municipios": 154
   },
   "participantes": [
     {
@@ -396,9 +398,24 @@
       "Polo": "Petrolina"
     },
     {
+      "Nome do Participante": "Ivanilde Edite da Silva Souza",
+      "Município": "Belém do São Francisco",
+      "Polo": "Petrolina"
+    },
+    {
       "Nome do Participante": "TIAGO MACIEL DE SIQUEIRA",
       "Município": "Belo Jardim",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Silvanubia De Aguiar",
+      "Município": "Betânia",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "RAQUEL BERNARDO MAGALHÃES",
+      "Município": "Betânia",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "JEFFERSON ALEXANDRE DA SILVA",
@@ -584,6 +601,31 @@
       "Nome do Participante": "José Luiz da Silva",
       "Município": "Calumbi",
       "Polo": "Jaboatão"
+    },
+    {
+      "Nome do Participante": "Lilian De Siqueira Almeida",
+      "Município": "Calumbi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "José Luiz da Silva",
+      "Município": "Calumbi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Maria Verdines da Conceição",
+      "Município": "Calumbi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Sirlene Cordeiro De Siqueira Almeida",
+      "Município": "Calumbi",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Allison Alen Cordeiro de Siqueira",
+      "Município": "Calumbi",
+      "Polo": "Petrolina"
     },
     {
       "Nome do Participante": "SANDRA KATARINY SANTOS SILVA",
@@ -1122,6 +1164,16 @@
     },
     {
       "Nome do Participante": "Everton Matheus Neves da Silva",
+      "Município": "Ipojuca",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Janayna Julye Martins Dos Santos",
+      "Município": "Ipojuca",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Tarcila Coelho",
       "Município": "Ipojuca",
       "Polo": "Petrolina"
     },
@@ -2057,6 +2109,11 @@
     },
     {
       "Nome do Participante": "Maria Vilma De Araújo Gomes",
+      "Município": "Tacaratu",
+      "Polo": "Petrolina"
+    },
+    {
+      "Nome do Participante": "Dilma Da Paz Rodrigues",
       "Município": "Tacaratu",
       "Polo": "Petrolina"
     },
